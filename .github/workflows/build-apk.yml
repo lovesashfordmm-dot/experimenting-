@@ -1,4 +1,4 @@
-name: Build Winlator Mali APK
+name: bitch
 
 on:
   workflow_dispatch:
